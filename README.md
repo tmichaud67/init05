@@ -1,5 +1,5 @@
 Manastria : cours Git
 =====================
 
-Etape 1
+Etape 3
 
